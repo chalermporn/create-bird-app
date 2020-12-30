@@ -1,0 +1,27 @@
+{
+  "name": "create-bird-app",
+  "version": "1.21.0",
+  "license": "MIT",
+  "author": "Evan You",
+  "main": "index.js",
+  "bin": {
+    "create-bird-app": "index.js",
+    "cva": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalermporn/create-bird-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chalermporn/create-bird-app/issues"
+  },
+  "homepage": "https://github.com/chalermporn/create-bird-app/tree/master/#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "minimist": "^1.2.5"
+  }
+}
