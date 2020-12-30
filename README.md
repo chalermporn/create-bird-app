@@ -3,7 +3,7 @@
 Create an app powered by [Vite](https://github.com/vitejs/vite).
 
 ```bash
-$ npm init vite-app <project-name>
+$ npm init bird-app <project-name>
 $ cd <project-name>
 $ npm install
 $ npm run dev
@@ -12,7 +12,7 @@ $ npm run dev
 If using Yarn:
 
 ```bash
-$ yarn create vite-app <project-name>
+$ yarn create bird-app <project-name>
 $ cd <project-name>
 $ yarn
 $ yarn dev
@@ -24,6 +24,7 @@ Available templates:
 
 - `vue` (default)
 - `vue-ts` (experimental)
+- `vue-ts-bird` (experimental)
 - `react`
 - `react-ts`
 - `preact`
