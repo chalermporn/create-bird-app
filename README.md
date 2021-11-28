@@ -1,6 +1,6 @@
-# create-vite-app
+# create-bird-app
 
-Create an app powered by [Vite](https://github.com/vitejs/vite).
+Create an app powered by [Bird-Vite](https://github.com/chalermporn/create-bird-app).
 
 ```bash
 $ npm init bird-app <project-name>
@@ -25,6 +25,7 @@ Available templates:
 - `vue` (default)
 - `vue-ts` (experimental)
 - `vue-ts-bird` (experimental)
+- `angular` (experimental)
 - `react`
 - `react-ts`
 - `preact`
