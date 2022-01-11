@@ -47,8 +47,8 @@ async function init() {
   if (root !== cwd) {
     console.log(`  cd ${path.relative(cwd, root)}`)
   }
-  console.log(`  npm install (or \`yarn\`)`)
-  console.log(`  npm run dev (or \`yarn dev\`)`)
+  console.log(`  npm install, yarn  (or \`pnpm i\`)`)
+  console.log(`  npm run dev, yarn dev (or \`pnpm dev\`)`)
   console.log()
 }
 
